@@ -1,0 +1,17 @@
+{
+  "name": "ExpressExample",
+  "version": "1.0.0",
+  "description": "Express js example application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "body-parser": "*",
+    "ejs": "^2.6.1",
+    "express": "*",
+    "mongojs": "^2.5.0"
+  },
+  "author": "Tuukka Paukkunen",
+  "license": "ISC"
+}
